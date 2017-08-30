@@ -1,0 +1,19 @@
+
+html, body, #root {
+  height: 100%;
+}
+.ant-layout-header{
+	height: 50px;
+	line-height: 50px;
+	padding: 0;
+}
+.ant-layout-header .logo {
+  width: 120px;
+  float: left;
+  color: transparent;
+  background-image: url(img/logo_asiainfo.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 42px;
+
+}
